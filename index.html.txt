@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>NEXUS — The Infinite World</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>NEXUS</h1>
+    <p>O ecossistema universal dos mundos digitais</p>
+  </header>
+
+  <section>
+    <h2>Visão</h2>
+    <p>
+      O Nexus conecta jogos, mundos, criadores e culturas
+      em um único universo contínuo.
+    </p>
+  </section>
+
+  <section>
+    <h2>O Futuro</h2>
+    <p>
+      VR, IA, mundos abertos, economia digital e experiências reais.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 NEXUS CORP</p>
+  </footer>
+</body>
+</html>
